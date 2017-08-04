@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Man must explore, and this is exploration at its greatest"
+title:      "Conociendo Tromso"
 subtitle:   "Problems look mighty small from 150 miles up"
-date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+date:       2017-08-03 11:00:00
+author:     "Mariano Dominguez"
 header-img: "img/post-bg-06.jpg"
 ---
 
