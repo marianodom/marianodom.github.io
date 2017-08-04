@@ -10,11 +10,13 @@ $(function() {
 });
 
 // Contact Form Script
+
+
 $(function() {
     $("#contactForm").submit(function(e) {
       e.preventDefault();
       $.ajax({
-        url: "//formspree.io/marianodominguez@gmail.com",
+        url: "https://formspree.io/marianodominguez@gmail.com",
         method: "POST",
         data: $(this).serialize(),
         dataType: "json",
