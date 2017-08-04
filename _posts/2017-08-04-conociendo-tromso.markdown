@@ -12,7 +12,7 @@ header-img: "img/tromso_post_header.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-tromso-emelie.jpg" alt="Post Sample Image">
 </a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<span class="caption text-muted">Con Emelie Forsberg en la acreditación del Kilómetro Vertical.</span>
 
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
