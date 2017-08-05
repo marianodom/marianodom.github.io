@@ -10,8 +10,6 @@ $(function() {
 });
 
 // Contact Form Script
-
-
 $(function() {
     $("#contactForm").submit(function(e) {
       e.preventDefault();
