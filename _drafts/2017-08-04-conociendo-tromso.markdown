@@ -2,7 +2,7 @@
 layout:     post
 title:      "Conociendo Tromsø"
 subtitle:   "De la mano ( o las zapatillas ) de Hernán de Lahitte"
-date:       2017-08-03 11:00:00
+date:       2017-08-04 11:00:00
 author:     "Mariano Dominguez"
 header-img: "img/tromso_post_header.jpg"
 ---
