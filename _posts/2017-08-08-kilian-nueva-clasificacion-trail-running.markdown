@@ -119,7 +119,7 @@ Por lo tanto, considerando una media de 6 horas de sueño diario, podemos defini
 
 <p><b>Los atletas</b> deben entender cuáles son sus capacidad técnicas y experiencia para llevar a cabo cada carrera. Y también para entrenar y mejorar sus capacidad antes de tomar parte de una carrera más técnica.<p>
 
-<p><b>Las federaciones</b> deben controlar las carreras en sus calendario esten bien agrupadas. Una mal agrupación o mal entendido puede crear confusión y afectar la seguridad de los corredores.<p>
+<p><b>Las federaciones</b> deben controlar que las carreras en sus calendario estén bien agrupadas. Una mal agrupación o mal entendido puede crear confusión y afectar la seguridad de los corredores.<p>
 
 
 <hr>
