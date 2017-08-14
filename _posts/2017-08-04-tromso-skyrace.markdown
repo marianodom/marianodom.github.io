@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Tromsø: Skyrunning a solo mil metros de elevación"
+title:      "Tromsø Skyrace"
 subtitle:   "Con la firma de Kilian Jornet y Emelie Forsberg"
 date:       2017-08-13 11:00:00
 author:     "Hernán de Lahitte"
-header-img: "img/tromso_post_header.jpg"
+header-img: "img/tromso-post-header-2.jpg"
 ---
 
 
@@ -12,9 +12,9 @@ header-img: "img/tromso_post_header.jpg"
 
 <p>Cuando supe de la primer edición de la <a href="https://tromsoskyrace.com/">Tromso Skyrace</a> allá por el 2014 organizada por nada menos que Kilian Jornet y Emelie Forsberg, y por la descripción de su alta exigencia técnica y brutal hermosura del paisaje (entiéndase recorrido bien “entretenido”), me di cuenta que seguramente llevaría bien grabada la firma de Kilian y lo que a él le gusta de una carrera de puro Skyrunning (esto lo comprobé en varios aspectos. Más detalles luego).<p>
 
-<p>Fue en esa época también que rediseñé mi lista de carreras que alguna vez me gustaría correr, o lo que llamo mi proyecto “Races of my life”. Ahora no sólo incluiría las clásicas de ultra distancia como Western States, Hardrock 100 o Ultra Trail du Mont Blanc más algunas otras grandes carreras, sino que también estaría integrada por varias carreras del calendario de <a href="https://tromsoskyrace.com/">Skyrunning World Series</a> y en este caso de la nueva categoría creada en 2016 llamada Sky Extreme integrada por solo 3 carreras en el mundo.<p>
+<p>Fue en esa época también que rediseñé mi lista de carreras que alguna vez me gustaría correr, o lo que llamo mi proyecto “Races of my life”. Ahora no sólo incluiría las clásicas de ultra distancia como <a href="http://www.wser.org/">Western States</a>, <a href="http://hardrock100.com/">Hardrock 100</a> o <a href="http://utmbmontblanc.com/es/">Ultra Trail du Mont Blanc</a> más algunas otras grandes carreras, sino que también estaría integrada por varias carreras del calendario de <a href="http://www.skyrunnerworldseries.com/all-races/">Skyrunning World Series</a> y en este caso de la nueva categoría creada en 2016 llamada Sky Extreme integrada por solo 3 carreras en el mundo.<p>
 
-<p>La mítica Trofeo Kima cuna del Skyrunning en Italia, bianual desde hace más de veinte años y según Kilian la mejor carrera del mundo en este estilo bien alpino. Luego la más joven y última en entrar a este selecto club, en Escocia la Glen Coe Skyline, también con una gran fama propiciada por Emelie Forsberg allá por el 2015. Aquí el <a href="http://www.emelieforsberg.com/glen-coe-skyline/">relato</a> de Emelie.<p>
+<p>La mítica Trofeo Kima cuna del Skyrunning en Italia, bianual desde hace más de veinte años y según Kilian la mejor carrera del mundo en este estilo bien alpino. Luego la más joven y última en entrar a este selecto club, en Escocia la <a href="http://www.skylinescotland.com/glen-coe-skyline/">Glen Coe Skyline</a>, también con una gran fama propiciada por Emelie Forsberg allá por el 2015. Aquí el <a href="http://www.emelieforsberg.com/glen-coe-skyline/">relato</a> de Emelie.<p>
 
 <p>Cuando armé el calendario 2016, el principal objetivo del año fué Nepal durante todo el mes de Mayo, con lo cuál volver a otro viaje importante a principios de Agosto se hacía complicada la logística desde lo familiar principalmente (sin mencionar la lesión en la espalda con la que volví de Nepal).<p>
 
@@ -34,7 +34,7 @@ header-img: "img/tromso_post_header.jpg"
 <img src="{{ site.baseurl }}/img/post-tromso-kilian-hernan.jpg" alt="Kilian y Hernan con el Martin Fierro" width="800">
 <span class="caption text-muted">Kilian y Hernán en la entrega del Martín Fierro.</span>
 
-Si bien mi lista de carreras incluye alguna que Kilian suele correr como Zegama, Hard Rock 100 e incluso hasta mi viaje a Nepal podría ser otra opción, pero todas difíciles de lograr entrar y Nepál improbable coincidir fechas. Luego todo apuntó a Tromso donde sin dudas lo podría encontrar, ya que no puede faltar a su propia carrera; y vaya que tiene un papel clave que es la mejor imagen del “hombre-orquesta” como está en todos los detalles y lugares!! En un mismo día lo vi en la largada, en la cima de la montaña más alta auxiliando y en el rescate de Hillary Allen quien se cayó del filo y salvó su vida de milagro.<p>
+Si bien mi lista de carreras incluye alguna que Kilian suele correr como Zegama, Hard Rock 100 e incluso hasta mi viaje a Nepal podría ser otra opción, pero todas difíciles de lograr entrar y Nepal improbable coincidir fechas. Luego todo apuntó a Tromso donde sin dudas lo podría encontrar, ya que no puede faltar a su propia carrera; y vaya que tiene un papel clave que es la mejor imagen del “hombre-orquesta” como está en todos los detalles y lugares!! En un mismo día lo vi en la largada, en la cima de la montaña más alta auxiliando y en el rescate de Hillary Allen quien se cayó del filo y salvó su vida de milagro.<p>
 
 <p>Además tenía que escribir alguna dedicatoria que expresara lo que yo pienso acerca de él. Y finalmente la paciencia de guardarlo hasta que llegara el momento, así que ahí estuvo en mi biblioteca un par de años esperando el momento.<p>
 
@@ -82,7 +82,7 @@ Antes de subir al micro de regreso, ahí estaban los famosos Cinnamon Rolls de E
 
 <h1 id="hamperokken-skyrace-">Hamperokken Skyrace</h1>
 
-<p>A la mañana siguiente, 7:35 AM ya estaba entrando en calor en la largada donde la mañana era clara y algo fresca con un ambiente muy familiar y distendido. Kilian ultimando detalles como una más de los doscientos y pico que nos juntamos para salir 8:00 a la prueba madre de Tromso, los 53 Km con “kilianescos” 4600 metros de desnivel positivo. Resulta casi imposible compararla con alguna carrera conocida, ya que su nivel técnico excede en mucho al resto pero solo a nivel altimétrico es como la conocida K42 de nuestra Patagonia. En vez de un cerro Bayo, son cuatro seguidos (y un poco más también) pero con pendientes más pronunciadas y el espectacular filo de 5 Km de largo del Hamperokken donde salen las mejores fotos de la carrera.<p>
+<p>A la mañana siguiente, 7:35 AM ya estaba entrando en calor en la largada donde la mañana era clara y algo fresca con un ambiente muy familiar y distendido. Kilian ultimando detalles como una más de los doscientos y pico que nos juntamos para salir 8:00 a la prueba madre de Tromso, los 53 Km con “kilianescos” 4600 metros de desnivel positivo.<p>
 
 <p>Mi estrategia general era guardar piernas ya que no sabía cuánto había influido el KV del día anterior, y además necesitaba llegar entero al filo para no aumentar más el riesgo de cruzarlo con piernas flojas y que me pudieran jugar una mala pasada.<p>
 
