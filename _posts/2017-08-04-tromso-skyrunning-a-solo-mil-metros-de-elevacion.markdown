@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Conociendo Tromsø"
-subtitle:   "Skyrunning de la mano de Kilian Jornet y Emelie Forsberg"
+title:      "Tromsø: Skyrunning a solo mil metros de elevación"
+subtitle:   "Con la firma de Kilian Jornet y Emelie Forsberg"
 date:       2017-08-13 11:00:00
 author:     "Hernán de Lahitte"
 header-img: "img/tromso_post_header.jpg"
@@ -14,7 +14,7 @@ header-img: "img/tromso_post_header.jpg"
 
 <p>Fue en esa época también que rediseñé mi lista de carreras que alguna vez me gustaría correr, o lo que llamo mi proyecto “Races of my life”. Ahora no sólo incluiría las clásicas de ultra distancia como Western States, Hardrock 100 o Ultra Trail du Mont Blanc más algunas otras grandes carreras, sino que también estaría integrada por varias carreras del calendario de <a href="https://tromsoskyrace.com/">Skyrunning World Series</a> y en este caso de la nueva categoría creada en 2016 llamada Sky Extreme integrada por solo 3 carreras en el mundo.<p>
 
-<p>La mítica Trofeo Kima cuna del Skyrunning en Italia, bianual desde hace más de 30 años y según Kilian la mejor carrera del mundo en este estilo bien alpino. Luego la más joven y última en entrar a este selecto club, en Escocia la Glen Coe Skyline, también con una gran fama propiciada por Emelie Forsberg allá por el 2015. Aquí el <a href="http://www.emelieforsberg.com/glen-coe-skyline/">relato</a> de Emelie.<p>
+<p>La mítica Trofeo Kima cuna del Skyrunning en Italia, bianual desde hace más de veinte años y según Kilian la mejor carrera del mundo en este estilo bien alpino. Luego la más joven y última en entrar a este selecto club, en Escocia la Glen Coe Skyline, también con una gran fama propiciada por Emelie Forsberg allá por el 2015. Aquí el <a href="http://www.emelieforsberg.com/glen-coe-skyline/">relato</a> de Emelie.<p>
 
 <p>Cuando armé el calendario 2016, el principal objetivo del año fué Nepal durante todo el mes de Mayo, con lo cuál volver a otro viaje importante a principios de Agosto se hacía complicada la logística desde lo familiar principalmente (sin mencionar la lesión en la espalda con la que volví de Nepal).<p>
 
