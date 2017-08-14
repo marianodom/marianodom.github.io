@@ -14,7 +14,7 @@ description: "Un blog sobre Trail Running, deportes de Montaña y vida al aire l
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%-d %B, %Y" }}</p>
+    <p class="post-meta">Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%-d-%m-%Y" }}</p>
 </div>
 <hr>
 {% endfor %}
