@@ -14,7 +14,7 @@ email_username:  marianodominguez@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-69256555-1
 
 # Build settings
 markdown: kramdown
