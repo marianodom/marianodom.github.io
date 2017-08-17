@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "UTMB: Material Obligatorio"
-subtitle:   "Pequeña guia de lo que no puede faltar"
+subtitle:   "Pequeña guía de lo que no puede faltar"
 date:       2017-08-16 18:00:00
 author:     "Mariano Dominguez"
 header-img: "img/post-utmb-material-header.jpg"
