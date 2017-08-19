@@ -19,7 +19,7 @@ header-img: "img/post-flyrunning-header.jpg"
 <p>De esta manera, con esa presentación en el sitio oficial, en este 2017 pudimos ver la creación de las <a href="http://www.flyrunning.com/"> Flyrunning Series</a>. Como lo dice su nombre, volar, se trata de carreras solamente de bajada, disfrutar de un descenso vertical hasta la meta.
 <p>
 
-<p>Este año tuvieron lugar 3 carreras: <b>La Molina</b>, <b>Tavascan</b> y <b>Vall de Núria</b>.<p>
+<p>Este año tuvieron lugar 3 carreras: <a href="http://www.flyrunning.com/la-molina-2017/"><b>La Molina</b></a>, <a href="http://www.flyrunning.com/tavascan-2017/"><b>Tavascan</b></a> y <a href="http://www.flyrunning.com/nuria-2017/"><b>Vall de Núria</b></a>.<p>
 
 <h2 id="la-molina-">La Molina</h2>
 
@@ -65,3 +65,5 @@ header-img: "img/post-flyrunning-header.jpg"
 <p>Cada cita estará formada por una crono individual (ronda de calificación – con salidas individuales cada varios segundos) y la avalanche (con salida conjunta en cajones según la clasificación de la crono y que decidirá los ganadores de cada prueba de las Fly Running Series).<p>
 
 <p>Careras por demás muy interesantes ideales para todos aquellos que bajen rápido.<p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kL2su4aG6bM" frameborder="0" allowfullscreen></iframe>
