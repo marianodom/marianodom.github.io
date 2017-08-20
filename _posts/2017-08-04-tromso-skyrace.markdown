@@ -22,7 +22,7 @@ header-img: "img/tromso-post-header-2.jpg"
 
 <p>No tardé mucho en ver que junto con la distancia reina de la carrera, también había un kilómetro vertical con una línea espectacular y fue esta foto la que me sedujo para probar como sería correr uno de estos KV, claro que no era cualquiera sino el tercero más exigente del mundo en tan solo 2,7Km subir algo más de mil metros. Era cantado que también se notaría la mano de Kilian a la hora de trazar el recorrido.<p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-kv-perfil.jpg" alt="Tromso VK" width="800">
+<img src="{{ site.baseurl }}/img/post-tromso-kv-perfil.jpg" alt="Tromso perfil kilometro vertical Blamann" width="800">
 <span class="caption text-muted">Perfil de la Blamann Vertical.</span>
 
 <p>Qué más da, nos vamos tan lejos vamos a probar todo lo que más nos gusta, montaña de la buena! Muchas cosas desconocidas lo cual hacían de este viaje algo muy excitante.<p>
@@ -31,14 +31,14 @@ header-img: "img/tromso-post-header-2.jpg"
 
 <p>Nunca supe bien cuál fue la historia de un curioso ejemplar del Martín Fierro edición 1936 traducido al catalán con tapa de cuero, que según me contaron se remonta a mis bisabuelos catalanes, que luego pasara a manos de mi abuela y mi madre. Dado que el idioma catalán no tuvo la suerte de pasar de generación como el libro, no le encontré mucho valor cuando llegó a mis manos más allá de la rareza de la edición y un cierto valor histórico familiar. No tardé mucho en “iluminarme” y darme cuenta que sería un perfecto regalo para Kilian y eso me llevó a imaginar que algún día lo tendría que ver cara a cara para entregárselo.<p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-kilian-hernan.jpg" alt="Kilian y Hernan con el Martin Fierro" width="800">
+<img src="{{ site.baseurl }}/img/post-tromso-kilian-hernan.jpg" alt="Kilian libro Martin Fierro" width="800">
 <span class="caption text-muted">Kilian y Hernán en la entrega del Martín Fierro.</span>
 
 Si bien mi lista de carreras incluye alguna que Kilian suele correr como Zegama, Hard Rock 100 e incluso hasta mi viaje a Nepal podría ser otra opción, pero todas difíciles de lograr entrar y Nepal improbable coincidir fechas. Luego todo apuntó a Tromso donde sin dudas lo podría encontrar, ya que no puede faltar a su propia carrera; y vaya que tiene un papel clave que es la mejor imagen del “hombre-orquesta” como está en todos los detalles y lugares!! En un mismo día lo vi en la largada, en la cima de la montaña más alta auxiliando y en el rescate de Hillary Allen quien se cayó del filo y salvó su vida de milagro.<p>
 
 <p>Además tenía que escribir alguna dedicatoria que expresara lo que yo pienso acerca de él. Y finalmente la paciencia de guardarlo hasta que llegara el momento, así que ahí estuvo en mi biblioteca un par de años esperando el momento.<p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-martin-fierro.jpg" alt="Martin Fierro para Kilian" width="800">
+<img src="{{ site.baseurl }}/img/post-tromso-martin-fierro.jpg" alt="Martin Fierro Kilian" width="800">
 <span class="caption text-muted">La dedicatoria para Kilian.</span>
 
 <blockquote>
@@ -52,14 +52,14 @@ Si bien mi lista de carreras incluye alguna que Kilian suele correr como Zegama,
 
 <p>Ya desde el aire, la geografía me transportaba a nuestros lagos del sur de la Patagonia. Aunque mi mente me recordaba que esa agua era mar, mis sentidos evocaban nuestros bellísimos lagos solo que la vegetación no eran nuestros grandes bosques, sino la clásica tundra ártica mucho menos exuberante y más baja en altura.<p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-area.jpg" alt="Tromso desde el aire" width="800">
+<img src="{{ site.baseurl }}/img/post-tromso-area.jpg" alt="Tromso Noruega aire" width="800">
 <span class="caption text-muted">Vista area de Tromso.</span>
 
 <p>Todo esto se borró de un plumazo cuando bajé del micro que me dejó a unas cuadras del hotel, y sentí ese intenso olor a mar junto al clásico sonido de las gaviotas. Fue una rara sensación ya que mi cabeza me había transportado a la Patagonia, pero los sentidos eran los de nuestra costa atlántica.<p>
 
 <p>Recuerdo que era cerca de las 21hs y la luz propia de un atardecer de verano, la cual se mantendría así hasta cerca de las 2 AM cuando el sol vuelve a asomar por el este.  El sol nunca se oculta desde mayo a fin de Julio. Claro que lo opuesto sucede de Noviembre a fin de enero pero a cambio se puede ver seguido la efímera Aurora Boreal, la cual no logro “atrapar” desde mis intentos previos en Alaska e Islandia. Habrá que seguir buscándola!<p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-ciudad.jpg" alt="Tromso ciudad" width="800"><span class="caption text-muted">Tromo pintoresca.</span>
+<img src="{{ site.baseurl }}/img/post-tromso-ciudad.jpg" alt="Tromso Noruega ciudad" width="800"><span class="caption text-muted">Tromo pintoresca.</span>
 
 <h1 id="1000-metros-hacia-el-cielo-">1000 metros hacia el cielo</h1>
 
@@ -94,7 +94,7 @@ Antes de subir al micro de regreso, ahí estaban los famosos Cinnamon Rolls de E
 
 <p>El recorrido tuvo de todo, barro, nieve, escaladas verticales y muy exigentes desniveles así como tramos de bosque tupido y con mucho desnivel (single track estrecho), lagos helados, cascadas caudalosas y múltiples cruces de ríos. Un menú de montaña bien completo.<p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-hamperokken-filo.jpg" alt="filo Hamperokken" width="800">
+<img src="{{ site.baseurl }}/img/post-tromso-hamperokken-filo.jpg" alt="filo Hamperokken Tromso Skyrace" width="800">
 <span class="caption text-muted">En plena carrera. La dificultad de la Hamperokken Skyrace.</span>
 
 <p>Como si algo faltara, los tiempos de corte fueron bien estrictos y algo más de la mitad de los 230 corredores quedaron afuera del corte final, lo cual me enteré dos días más tarde por un artículo de la carrera. Claro que nadie se quejó por ello (son Escandinavos!), y en mi opinión no creo que haya sido tan bajo el corte máximo de 13 hs ya que si alguien de ciudad como yo pudo hacerlo en menos tiempo, sin dudas debe estar bien calculado. Pero no da para quedarse mucho sacando fotos o comiendo en los escasos puestos del recorrido (agua en abundancia de los ríos y deshielos).<p>
@@ -111,5 +111,5 @@ Antes de subir al micro de regreso, ahí estaban los famosos Cinnamon Rolls de E
 Más que nada feliz por completar la carrera en “una sola pieza” que no es poco!
 <p>
 
-<img src="{{ site.baseurl }}/img/post-tromso-fin.jpg" alt="Hasta una nueva aventura" width="800">
+<img src="{{ site.baseurl }}/img/post-tromso-fin.jpg" alt="Tromso Noruega Skyrace Skyline" width="800">
 <span class="caption text-muted">Hasta una nueva aventura.</span>
