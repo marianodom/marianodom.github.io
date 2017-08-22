@@ -7,7 +7,7 @@ author:     "Diran Sirinian"
 header-img: "img/post-western-states-header.jpg"
 ---
 
-<h1 id="ultra-caballo-blanco-">Ultra Caballo Blanco</h1>
+<h1 id="el-comienzo-ultra-caballo-blanco-">El comienzo: Ultra Caballo Blanco</h1>
 
 <p>Una inesperada y azarosa secuencia de eventos sucedidos a lo largo de dos, años quiso que el 24 de junio pasado fuera yo uno de los 369 corredores que corrieron la <a href="http://www.wser.org/">Western States Endurance Run</a> en California.<p>
 
