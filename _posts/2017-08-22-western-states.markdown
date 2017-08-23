@@ -9,7 +9,7 @@ header-img: "img/post-western-states-header.jpg"
 
 <h1 id="el-comienzo-ultra-caballo-blanco-">El comienzo: Ultra Caballo Blanco</h1>
 
-<p>Una inesperada y azarosa secuencia de eventos sucedidos a lo largo de dos, años quiso que el 24 de junio pasado fuera yo uno de los 369 corredores que corrieron la <a href="http://www.wser.org/">Western States Endurance Run</a> en California.<p>
+<p>Una inesperada y azarosa secuencia de eventos sucedidos a lo largo de dos años, quiso que el 24 de junio pasado fuera yo uno de los 369 corredores que corrieron la <a href="http://www.wser.org/">Western States Endurance Run</a> en California.<p>
 
 <p>Esta historia comenzó en marzo de 2015, cuando viajé a las Barrancas de Cobre (Chihuahua, Mexico) a correr, por cuarto año consecutivo, el <a href="http://www.norawas.org/ccum/"> Ultramaraton Caballo Blanco</a>, en un circuito de 80 kilómetros serranos, al cual se tarda más de un día de viaje para llegar desde Ciudad de México. Esa carrera ganó fama mundial a partir de 2009 con la publicación del libro <a href="https://www.libreriadesnivel.com/libros/nacidos-para-correr/9788483069479/">“Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen”</a>, posteriormente traducido al español. Fue gracias a ese libro fundamental que en 2012, con 44 años, empecé a correr ultradistancia.<p>
 
