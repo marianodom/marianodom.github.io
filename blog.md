@@ -38,7 +38,7 @@ to the `site_tags` variable. -->
           <a href="{{ post.url }}">{{ post.title }}</a>
         </span>
         <span style="float: right;">
-          {{ post.date | date_to_string }}
+          {{ post.date | date: "%d/%m/%Y" }}
         </span>
       </div>
       <div style="clear: both;"></div>
