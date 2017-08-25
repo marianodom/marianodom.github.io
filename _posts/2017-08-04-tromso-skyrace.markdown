@@ -4,6 +4,7 @@ title:      "Tromsø Skyrace"
 subtitle:   "Con la firma de Kilian Jornet y Emelie Forsberg"
 date:       2017-08-13 11:00:00
 author:     "Hernán de Lahitte"
+tags:       Relatos
 header-img: "img/tromso-post-header-2.jpg"
 ---
 

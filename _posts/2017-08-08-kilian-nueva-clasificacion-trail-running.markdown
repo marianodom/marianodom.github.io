@@ -4,6 +4,7 @@ title:      "Kilian: Nueva clasificación para el Trail Running"
 subtitle:   "Propuesta para diferenciar las carreras según grupos"
 date:       2017-08-07 09:00:00
 author:     "Mariano Dominguez"
+tags:       [Kilian Jornet]
 header-img: "img/post-kilian-tr-header.jpeg"
 ---
 

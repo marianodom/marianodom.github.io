@@ -4,6 +4,7 @@ title:      "Consejos de seguridad"
 subtitle:   "Por Kilian Jornet"
 date:       2017-08-20 18:00:00
 author:     "Mariano Dominguez"
+tags:       [Kilian Jornet]
 header-img: "img/post-consejos-de-seguridad-header.jpg"
 ---
 

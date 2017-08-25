@@ -4,6 +4,7 @@ title:      "Hardrock 100"
 subtitle:   "Resumen en un video de Jamil Coury"
 date:       2017-08-05 22:00:00
 author:     "Mariano Dominguez"
+tags:       [Info de carreras]
 header-img: "img/post-hr100-header.jpg"
 ---
 

@@ -4,6 +4,7 @@ title:      "Flyrunning Series"
 subtitle:   "Correr volando, volar corriendo."
 date:       2017-08-19 10:00:00
 author:     "Mariano Dominguez"
+tags:       [Info de carreras]
 header-img: "img/post-flyrunning-header.jpg"
 ---
 

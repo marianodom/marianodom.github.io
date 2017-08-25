@@ -2,6 +2,7 @@
 layout:     post
 title:      "Western States"
 subtitle:   "Aún lejos del límite"
+tags:       [Relatos, Carreras] 
 date:       2017-08-22 18:00:00
 author:     "Diran Sirinian"
 header-img: "img/post-western-states-header.jpg"

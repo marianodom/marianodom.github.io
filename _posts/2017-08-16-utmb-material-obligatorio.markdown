@@ -4,6 +4,7 @@ title:      "UTMB: Material Obligatorio"
 subtitle:   "Pequeña guía de lo que no puede faltar"
 date:       2017-08-16 18:00:00
 author:     "Mariano Dominguez"
+tags:       [Info de carreras]
 header-img: "img/post-utmb-material-header.jpg"
 ---
 
