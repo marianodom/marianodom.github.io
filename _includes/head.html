@@ -3,7 +3,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.description }}">
+    {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+    {% endif %}
+
+    <meta property="og:description" content="{{ page.subtitle }}" />
 
     <!--Google Page-level ads -->
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -39,11 +43,11 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    {% if post.header-img %}
-    <meta property="og:image" content="{{ site.url }}/{{ post.header-img }}" />
+    {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
     {% endif %}
 
-    <meta property="og:description" content="{{ post.subtitle }}" />
+    <meta property="og:description" content="{{ page.subtitle }}" />
 
 
     {% feed_meta %}
