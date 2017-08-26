@@ -39,8 +39,15 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+    {% endif %}
+
+    <meta property="og:description" content="{{ page.subtitle }}" />
+
+
     {% feed_meta %}
 
-    {% seo %} 
-    
+    {% seo %}
+
 </head>
