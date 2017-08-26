@@ -1,5 +1,4 @@
 ---
-maincss: /css/lanyon.css
 layout: page
 title: Blog
 description: Posts ordenados por categorías
