@@ -2,6 +2,7 @@
 layout:     post
 title:      "Riaño Trail Run"
 subtitle:   "Carrera por etapas organizada por Miguel Heras"
+description: "Carrera por etapas organizada por Miguel Heras"
 date:       2017-08-25 22:00:00
 author:     "Mariano Dominguez"
 tags:       Carreras
