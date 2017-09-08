@@ -12,9 +12,9 @@ header-img: "img/post-utmb-header.jpg"
 
 <h1 id="algún-tiempo-atrás-">Algún tiempo atrás</h1>
 
-<p>La idea de participar en la CCC surgió a principios de 2016 cuando me propuse correr algunas Ultras que sean carreras calificativas para el Ultra Trail du Mont Blanc. Aprovechando que vivo en un entorno de sierras y con grandes montañas cerca, no me parecía una locura si entrenaba adecuadamente.<p>
+<p>La idea de participar en la CCC surgió a principios de 2016 cuando me propuse correr algunas Ultras que sean carreras calificativas para el <a href="http://utmbmontblanc.com/es/">Ultra Trail du Mont Blanc</a>. Aprovechando que vivo en un entorno de sierras y con grandes montañas cerca, no me parecía una locura si entrenaba adecuadamente.<p>
 
-<p>Luego de correr El Cruce, participé en Abril del 2016 en la Ultra Trail Barcelona, en el Parque del Garraf, en la modalidad de 70 km. Fué una experiencia dura, ya era mi primer ultra, pero pude completarla. El gran reto del año sería en Septiembre en la Ultra Pirineu.<p>
+<p>Luego de correr <a href="http://elcrucecolumbia.com/">El Cruce</a>, participé en Abril del 2016 en la <a href="http://utbcn.com/">Ultra Trail Barcelona</a>, en el Parque del Garraf, en la modalidad de 70 km. Fué una experiencia dura, ya era mi primer ultra, pero pude completarla. El gran reto del año sería en Septiembre en la <a href="http://ultrapirineu.com/">Ultra Pirineu</a>.<p>
 
 <p>La UP con sus 110 km y 6800 m+ fué un gran reto que tuve la suerte de correrla con mi amigo Hernán de Lahitte, de muchísima más experiencia que yo en este tipo de carreras. Otra prueba superado y los puntos que necesitaba para acceder al sorteo de la CCC.<p>
 
@@ -22,19 +22,19 @@ header-img: "img/post-utmb-header.jpg"
 
 <p>El resultado positivo fue un golpe de suerte, ya que muchos corredores en su primer intento no logran ser parte del listado de participantes. Ahora todo dependía de mí, entrenar y sumar kilómetros<p>
 
-<p>Además del entrenamiento participé en carreras: El cruce, Montserrat Skyrace y la Esquella de Pardines. Cada una diferente a la otra, ya sea en distancia, elevación, dificultad del terreno, y otros factores. Todo lo que hacía sumaba para el gran objetivo<p>
+<p>Además del entrenamiento participé en carreras: El cruce, <a href="https://www.montserratskyrace.com/inicio">Montserrat Skyrace</a> y <a href="http://esquella.com/">la Esquella de Pardines</a>. Cada una diferente a la otra, ya sea en distancia, elevación, dificultad del terreno, y otros factores. Todo lo que hacía sumaba para el gran objetivo<p>
 
-<p>Tuve altibajos durante los meses de entrenamiento donde no encontraba motivación. Mucha veces pensé que no iba a poder con semejante carrera, pero algo (no se que exactamente), me llevaba a seguir adelante. Así fue como seguí sumando kilómetros y elevación en mis piernas. Mi running team RunBCN también ayudó al entrenamiento con las salidas largas en los Pirineos.<p>
+<p>Tuve altibajos durante los meses de entrenamiento donde no encontraba motivación. Mucha veces pensé que no iba a poder con semejante carrera, pero algo (no se que exactamente), me llevaba a seguir adelante. Así fue como seguí sumando kilómetros y elevación en mis piernas. Mi running team <a href="http://runbcn.com/">RunBCN</a> también ayudó al entrenamiento con las salidas largas en los Pirineos.<p>
 
 <p>A poco más de un mes del viaje a Chamonix, pude confirmar que viajaba con dos amigos que iban a ser claves en la carrera. La CCC permite asistencia en tres puntos de la carrera.<p>
 
 <h1 id="la-fiesta-del-trail-running-">La fiesta del Trail Running</h1>
 
-
-
 <p>Una vez aterrizados en Ginebra, y luego de la hora y veinte minutos que separan el aeropuerto de dicha ciudad con Chamonix, ya estábamos viviendo la carrera. De un momento a otro, algo que costó tanto y se hizo rogar, ya estaba enfrente de mis ojos. Un lugar soñado para cualquier amante de las montañas.<p>
 
 <p>Es muy difícil describir Chamonix, no alcanza una foto, no alcanzan mil palabras. Hay que estar en el lugar para entenderlo, el lugar es increíble. El día 30 de Agosto decidimos recorrer la feria, donde todas las marcas venden sus productos y donde es posible encontrar a los corredores de elite entre el medio de la gente. Tommy Rivs, Zach Miller, Sage Canaday, Hayden Hawks, entre otros, estaban en el lugar.<p>
+
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/154272925@N04/36235160713/in/album-72157684882609342/" title="A metros del arco de llegada de la UTMB con Sage Canaday"><img src="https://farm5.staticflickr.com/4364/36235160713_477226a159_b.jpg" width="768" height="1024" alt="A metros del arco de llegada de la UTMB con Sage Canaday"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <p>Luego, a la tarde, decidimos estirar un poco las piernas y salimos a correr por el valle, lejos de la multitud. Nos adentramos en un bosque con algunos desniveles, sin cansar las piernas antes de la carrera. Era imposible no hacerlo, nada mejor que correr con amigos y con el agregado de la vista del Mont Blanc.<p>
 
