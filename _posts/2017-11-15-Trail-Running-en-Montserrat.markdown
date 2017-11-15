@@ -5,7 +5,7 @@ subtitle:   "Salida de 15km con compañeros de RunBCN en la montaña mágica"
 date:       2017-11-15 08:00:00
 author:     "Mariano Dominguez"
 tags:       [Entrenamiento]
-header-img: "img/post-montserrat-header.jpg"
+header-img: "img/post-montserrat-header.JPG"
 ---
 
 <p>El pasado domingo, y aprovechando el buen clima en el ya casi invierno de Barcelona, armamos una salida express de unos 15 kilómetros con mis compañeros de <a href="http://runbcn.com/">RunBCN</a>.<p>
