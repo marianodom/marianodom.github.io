@@ -2,7 +2,7 @@
 layout:     post
 title:      "Introducción al BTT: Autonomía"
 subtitle:   "Material necesario para evitar imprevistos"
-date:       2017-11-15 08:00:00
+date:       2017-11-18 21:00:00
 author:     "Mariano Dominguez"
 tags:       [BTT]
 header-img: "img/post-introbtt-header.jpeg"
