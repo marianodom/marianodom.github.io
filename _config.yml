@@ -6,7 +6,7 @@ email: marianodominguez@gmail.com
 copyright_name: ElevationGain
 description: "Un blog sobre Trail Running, deportes de Montaña y vida al aire libre"
 baseurl:
-url: http://www.elevationgain.com
+url: http://elevationgain.com
 twitter_username: marian_dom
 github_username:
 facebook_username:  mariano.dom
@@ -29,4 +29,3 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-liquid
