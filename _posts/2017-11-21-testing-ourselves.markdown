@@ -12,7 +12,7 @@ header-img: "img/post-testing-ourselves-header.jpeg"
 
 <p>¿Es posible escalar una cima de 8.000m en quince días? ¿Qué aclimatación hay que hacer y cómo afecta al cuerpo? Esas preguntas rondaban la cabeza de los atletas de montaña Kilian Jornet y Emelie Forsberg. Para buscar la respuesta se embarcaron en un proyecto para intentar hacer cima en el Cho Oyu (8.220m) con un nuevo método de aclimatación que puede revolucionar el alpinismo.<p>
 
-<p>El resultado de este experimento fué publicado hoy por el mismo Kilian en su canal de Youtube asi también como lo promociaron por las redes sociales junto a Emelie.<p>
+<p>El resultado de este experimento fué publicado hoy por el mismo Kilian en su canal de Youtube así también como lo promocionaron por las redes sociales junto a Emelie.<p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AZ9Qi99yZvY" frameborder="0" allowfullscreen></iframe>
 
