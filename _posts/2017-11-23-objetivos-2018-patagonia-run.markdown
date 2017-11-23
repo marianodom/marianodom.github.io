@@ -10,9 +10,9 @@ header-img: "img/post-patagonia-run-header.jpg"
 
 <h1 id="patagonia-run-en-uno-de-los-lugares-mas-bellos-de-la-largentina-san-martin-de-los-andes-">Patagonia Run en uno de los lugares más bellos de la Argentina, San Martín de los Andes</h1>
 
-<p>Se anunció el lanzamiento de la competencia, que por segundo año consecutivo será parte del exigente <a href="">Ultra Trail World Tour</a>. Se realizará en San Martin de los Andes - Provincia de Neuquén - los días 6 y 7 de Abril de 2018.</p>
+<p>Se anunció el lanzamiento de la competencia, que por segundo año consecutivo será parte del exigente <a href="http://www.ultratrail-worldtour.com/">Ultra Trail World Tour</a>. Se realizará en San Martin de los Andes - Provincia de Neuquén - los días 6 y 7 de Abril de 2018.</p>
 
-<p>El anuncio importante en esta edición es que <a href="">Patagonia Run Mountain Hardwear</a> tendrá, como distancia máxima, 100 millas (160,9 km), extendiéndose 15,9 km adicionales sobre los 145km que tuvo este año la reina de las distancias de ultra de esta competencia que forma parte del Ultra Trail World Tour.</p>
+<p>El anuncio importante en esta edición es que <a href="https://www.patagoniarun.com/">Patagonia Run Mountain Hardwear</a> tendrá, como distancia máxima, 100 millas (160,9 km), extendiéndose 15,9 km adicionales sobre los 145km que tuvo este año la reina de las distancias de ultra de esta competencia que forma parte del Ultra Trail World Tour.</p>
 
 <p>Así se cumple con un nuevo objetivo de este evento internacional que continúa siendo elegido por los corredores de montaña como la mejor ultramaratón de dicho género de Sudamérica.
 Las 100 millas es una distancia emblemática en el mundo del ultratrail, y para llegar a ella exigió que la organización realice una importante modificación en el recorrido. El mismo a partir de ahora incluirá al Cerro Chapelco, ícono de San Martín de los Andes, donde se hará cumbre.</p>
