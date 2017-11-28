@@ -71,7 +71,7 @@ header-img: "img/post-salomon-k42-header.jpg"
 <p align="justify">A partir del siguiente puesto de hidratación, y sabiendo que me encontraba a unos ocho o nueve kilómetros de la llegada, de los cuales 5 serían en bajada, aproveché para acortar distancias, por pistas de tierra suelta y caminos de ripio que permitían acelerar sin demasiado riesgo.</p>
 
 <img src="{{ site.baseurl }}/img/post-salomon-k42-carrera-superado-el-cerro-bayo.jpg" alt="Salomon K42 Carrera Superado el Cerro Bayo" width="800">
-<span class="caption text-muted">Bajada despues de superar el Cerro Bayo</span>
+<span class="caption text-muted">Bajada después de superar el Cerro Bayo</span>
 
 <p align="justify">Una vez en la ruta, sabía que quedaban poco menos de dos kilómetros hasta la llegada, con muy poco desnivel. Por eso, pese a estar exhausto después del Bayo, traté de correr a buen ritmo todo lo que pude.</p>
 
