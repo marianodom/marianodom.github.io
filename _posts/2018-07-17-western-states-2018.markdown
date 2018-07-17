@@ -5,7 +5,7 @@ subtitle:   "La vida en un día"
 date:       2018-07-17 09:00:00
 author:     "Hernán de Lahitte"
 tags:       Relatos
-header-img: "img/western-states-2018-llegada.jpg"
+header-img: "img/western-states-2018-llegada-hd.jpg"
 ---
 
 <p><b>La primera pregunta que me vino a la mente</b> cuando comencé a escribir la lista de carreras que alguna vez en mi vida me gustaría correr fue: <blockquote>“Por que intentar correr Western States si no me gusta el calor y prefiero los terrenos bien alpinos y técnicos mas que los senderos clásicos del trail americano?”.</blockquote><p>
