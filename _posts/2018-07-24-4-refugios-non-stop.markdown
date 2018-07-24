@@ -125,7 +125,7 @@ Pasé a este grupo, y me dirigí con toda la velocidad que pude hacia el último
 
 <h3 id="siempre-es-mas-facil-de-a-dos-">Siempre es más fácil de a dos</h3>
 
-<pYa en el Refugio Frey me detuve a comer un poco de fruta y a reponer líquidos, y cuando me dispuse a salir nuevamente, vi a mi compañero Hernán, que estaba llegando al puesto. No pude más que alegrarme, ya que tendría alguien con quien compartir los últimos kilómetros de la carrera.
+<p>Ya en el Refugio Frey me detuve a comer un poco de fruta y a reponer líquidos, y cuando me dispuse a salir nuevamente, vi a mi compañero Hernán, que estaba llegando al puesto. No pude más que alegrarme, ya que tendría alguien con quien compartir los últimos kilómetros de la carrera.
 <p>
 
 <p>Hernán es un corredor mucho más experimentado que yo, finisher de carreras como Transvulcania, Hamperokken, Bear 100, y más recientemente la <a href="https://elevationgain.com/2018/07/17/western-states-2018/">Western States Endurance Run</a>, con lo cual siempre supe que tras separarnos en la largada, donde yo pude correr más rápido, él me alcanzaría y podríamos terminar bastante parejos.
