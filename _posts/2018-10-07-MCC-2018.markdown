@@ -1,0 +1,64 @@
+---
+layout:     post
+title:      "MCC 2018: La hermana menor del Ultra Trail Du Mont Blanc"
+subtitle:   "Mi experencia en esta nueva carrera"
+date:       2018-10-07 15:00:00
+author:     "Mariano Domínguez"
+tags:       Relatos
+header-img: "img/IMG_1329.jpg"
+---
+
+<h3 id="una-nueva-carrera-">Una nueva carrera</h3>
+
+<p align="justify">El recorrido de 39km y no menos de 2.400m de desnivel, ascendiendo por las viñas Martigny Combe al col de la Forclaz después el col de Balme pondrá a prueba las capacidades de escalador de los participantes y se orienta entonces como una carrera eminentemente festiva con un descenso del col de Balme hasta Chamonix. Esta carrera permitirá disfrutar, en una distancia accesible, del placer de participar en la Cima Mundial del Trail. La organización vela para que esta nueva prueba sea concebida con los mismos estándares de calidad que sus mayores. La prueba recorrerá senderos inéditos y ofrecerá a los participantes una travesía por las más bonitas aldeas de la parte alta del valle de Chamonix.
+</p>
+
+<img src="{{ site.baseurl }}/img/profil2018_mcc_2.png" alt="Perfil MCC" width="800">
+
+
+<p align="justify">Todo empieza en Enero de este año cuando no tuve suerte en el sorteo de la CCC (Courmayeur-Champex-Chamonix). La organización del UTMB agregó una nueva carrera de 40 kilómetros para la gente del Valle de Chamonix y alrededores y para aquellos desafortunados de los sorteos de las otras carreras. En mi mente estaba volver a Chamonix a toda costa. Y ésta fué mi oportunidad.<br>
+Talvez no entrené tanto como debería, por ahí no respetando tanto la distancia ya que mi objetivo principal era repetir los 100km de la CCC que había corrido en el 2017 pasado. Aún así llegaba a Chamonix confiado de que podía hacer un buen papel.
+</p>
+
+<h3 id="la-previa-">La previa</h3>
+
+<p align="justify">Ya tenía la experencia del año anterior, así que esta vez fué todo mas sencillo. Vuelo desde Barcelona a Ginebra por Vueling, super económico y luego Transfer a Chamonix que me dejaba en la puerta del hotel. Dato a tener en cuenta: Llegué a Chamonix a las 9:30 de la mañana y el check-in era a las 3 de la tarde. Por lo que tuve que hacer tiempo buena parte del día hasta poder ir a mi habitación. Para futuros viajes probablemente calcule el horario para llegar alrededor del mediodia.
+</p>
+
+<p align="justify">Aproveché la oportunidad de tener el domingo libre para ir al Mer de Glace. Es un gran glaciar así como su nombre lo indica "Mar de hielo". Es el glaciar mas grande de Francia tiene aproximadamente unos 200 metros de profundidad y 7 kilómetros de largo. La mejor manera de llegar es con el tren cremallera desde Chamonix, lo mejor es ir temprano porque un poco mas tarde el tren va lleno. Igualmente son unos 20 minutos de recorrido.
+</p>
+
+<h3 id="la-hora-de-la-verdad-">La hora de la verdad</h3>
+
+<p align="justify">Llegó el momento de la carrera y las cosas no arrancaron como quería. La pasé fatal durante la noche con fuerte dolores estomacales. Dormí poco y pensé mil veces en no participar de la prueba. Finalmente, nose como, me levanté y salí camino a los buses que llevaban a los corredores hasta Martigny Combe en Suiza.<br>
+En el bus más de lo mismo, fatal. Traté de dormir en el viaje.</p>
+
+<p align="justify">Algo a favor en ese momento: el clima acompañaba. Estaba totalmente despejado. Ya en la largada me encontré con 3 compatriotas que junto a mi seríamos los únicos respresantes argentinos en esta prueba.<br>
+Talvez fue la emoción de la carrera, pero me encontré mucho mejor del estómago para este momento.</p>
+
+<p align="justify">Largué casi último y sabía que ese no era mi puesto. Por suerte las calles eran anchas y podia adelantar a otros corredores antes de adentrarnos en los senderos y así evitar tapones.<br>
+Dejando Martigny pude acomodarme con corredores de mas o menos mi nivel. El estómago me jugaba malas pasadas, por momentos tenía dolores muy grandes que me hacían inclinarme hacia adelante y así como de repente los dolores desaparecían y podía correr libremente. Empezé a creer que mi dolor era en realidad una lesión abdominal.
+</p>
+
+<p align="justify">La carrera es totalmente de subida hasta el kilómetro 18 aproximadamente. Me encontré cuerdas, cadenas y señales de peligro en el recorrido, realmente me sorprendió. No era nada para alarmarse pero sinceramente fue una grata sorpresa.<br>
+Luego de los 18km en subida la carrera se "aplana" pero en un terreno técnico donde era complicado correr (al menos para mi lo era). Algunos corredores que había superado en la subida aprovecharon para pasarme en este sector.
+</p>
+
+<img src="{{ site.baseurl }}/img/46714566.jpg" alt="MCC en carrera" width="800">
+
+<p align="justify">Bajada, casi siempre bajada, hasta Argentiere. Este tramo fué rápido con algún que otro corredor delante mio que hacía un poco mas lento el tramo cuando entrabamos en senderos angostos.<br>
+No demoré mucho en Argentiere. Seguí mi camino y el calor y el estómago me estaban afectando.
+</p>
+
+<p align="justify">El resto del camino hasta Chamonix, unos 11km eran llanos, falsos llanos, y algún repecho.<br>
+Me encontré parte del maldito bosque que recorrí el año pasado en la CCC con 90km en las piernas y de noche. Esta vez lo superé mucho mas rapido y de día. Sensaciones totalmente diferentes.
+</p>
+
+<p align="justify">Llegando a Chamonix apreté un poco el ritmo para pasar a los corredores que tenía a la vista. Una vez en el pueblo había una escalera de metal que armó la organización este año para cruzar una calle. No lo esperaba y me pareció totalmente innecesario. En fin, superada la escalera. Entré al pequeño centro de Chamonix y arco de llegada.</p>
+
+<p align="justify">Mi tiempo fué de 6 horas y pocos minutos, mas que contento pensando que corrí con fuertes dolores. Una vez en Barcelona (en el viaje de vuelta, fatal también), visita al médico y el diagnóstico: Cólicos estomacales.</p>
+
+<p align="justify">Queda simplemente agradecer a todos los que hacen que pueda disfrutar de estos momentos. Y que vengan mas y mejores carreras.
+<p align="justify">
+
+<iframe width="1440" height="810" src="https://www.youtube.com/embed/7xKEuPGtXIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
