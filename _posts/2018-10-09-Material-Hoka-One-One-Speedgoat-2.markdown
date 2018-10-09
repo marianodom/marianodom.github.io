@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Material: Hoka One One Speedgoat 2"
-subtitle:   "Análisis de la zapatilla"
+subtitle:   "Análisis, puntos a favor y en contra"
 date:       2018-10-08 10:00:00
 author:     "Mariano Domínguez"
 tags:       Material
